@@ -12,13 +12,6 @@
 
 Built an Acute Heart Disease (AHD) Prediction Model using Machine Learning to classify heart disease risk based on patient clinical data, including preprocessing, feature scaling, model training, and performance evaluation.
 
-# Conclusion - 
-
-1. The Acute Heart Disease Prediction Model successfully predicts the risk of heart disease using patient medical data such as age, cholesterol, blood pressure, and heart rate.
-2. Data preprocessing steps like handling missing values, feature scaling, and feature engineering improved the quality of the dataset and model performance.
-3. The Decision Tree Classifier provided an interpretable model, making it easier to understand which health factors contribute most to heart disease prediction.
-4. Hyperparameter tuning using GridSearchCV optimized the model and enhanced its accuracy and reliability, making it useful for early risk detection.
-
 # Result - 
 
 1. The trained Decision Tree model produced effective classification results for identifying patients at risk of Acute Heart Disease.
@@ -26,6 +19,12 @@ Built an Acute Heart Disease (AHD) Prediction Model using Machine Learning to cl
 3. GridSearchCV tuning improved the model by selecting the best parameters, reducing overfitting and increasing generalization.
 4. The final system can support doctors and healthcare professionals by providing an early warning tool for heart disease risk assessment.
 
+# Conclusion - 
+
+1. The Acute Heart Disease Prediction Model successfully predicts the risk of heart disease using patient medical data such as age, cholesterol, blood pressure, and heart rate.
+2. Data preprocessing steps like handling missing values, feature scaling, and feature engineering improved the quality of the dataset and model performance.
+3. The Decision Tree Classifier provided an interpretable model, making it easier to understand which health factors contribute most to heart disease prediction.
+4. Hyperparameter tuning using GridSearchCV optimized the model and enhanced its accuracy and reliability, making it useful for early risk detection.
 
 # Library Used - 
 
