@@ -8,19 +8,19 @@ Objective -
 4. Tree and optimize them using GridSearchCV.
 5. To support early detection of heart disease risk and assist in medical decision-making.
 
-Summary - 
+# Summary - 
 
 Built an Acute Heart Disease (AHD) Prediction Model using Machine Learning to classify heart disease risk based on patient clinical data, including preprocessing, feature scaling, model training, and performance evaluation.
 
-Library Used - 
+# Library Used - 
 
 Python - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-Algorithm Used - 
+# Algorithm Used - 
 
 Decision Tree Classifier (with GridSearchCV Hyperparameter Tuning)
 
-Conclusion - 
+# Conclusion - 
 
 1. The Acute Heart Disease Prediction Model successfully predicts the risk of heart disease using patient medical data such as age, cholesterol, blood pressure, and heart rate.
 2. Data preprocessing steps like handling missing values, feature scaling, and feature engineering improved the quality of the dataset and model performance.
@@ -28,7 +28,7 @@ Conclusion -
 4. Hyperparameter tuning using GridSearchCV optimized the model and enhanced its accuracy and reliability, making it useful for early risk detection.
 
 
-Result - 
+# Result - 
 
 1. The trained Decision Tree model produced effective classification results for identifying patients at risk of Acute Heart Disease.
 2. Model evaluation metrics such as accuracy, confusion matrix, and classification report helped measure the model’s prediction strength.
