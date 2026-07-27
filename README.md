@@ -30,7 +30,7 @@ Built an Acute Heart Disease (AHD) Prediction Model using Machine Learning to cl
 
 # Library Used - 
 
-Python - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Python - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 # Algorithm Used - 
 
