@@ -1,6 +1,7 @@
 # Acute Heart Disease Prediction Model :- 
 
-Built an Acute Heart Disease (AHD) Prediction Model using Machine Learning to classify heart disease risk based on patient clinical data, including preprocessing, feature scaling, model training, and performance evaluation.
+Developed an Acute Heart Disease (AHD) prediction system using patient clinical data and machine learning techniques. The project focused on identifying patterns in medical data and building a classification model capable of predicting heart disease risk. The trained model was evaluated to measure its predictive performance and demonstrate its potential for supporting early risk assessment in healthcare.
+
 
 
 # Objective -
